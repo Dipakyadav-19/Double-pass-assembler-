@@ -1,0 +1,43 @@
+
+04  2  406  
+05  3  408  
+06  3  401  
+07  
+05  2  405  
+05  1  408  
+       002
+05  3  412  
+05  3  413  
+05  3  413  
+       004
+       005
+10  
+04  1  417  
+04  1  418  
+       001
+       007
+
+Symbol Table
+
+ srN  address symbol
+   1      406    ONE
+   2      401  AGAIN
+   3      401      N
+   4      405 RESULT
+   5      406      A
+
+Literal Table
+
+ srN  address literal
+   1      408    ="2"
+   2      412    ="4"
+   3      413    ="5"
+   4      417    ="1"
+   5      418    ="7"
+
+Pool TAB
+
+ Pool TAB
+        1
+        2
+        4
